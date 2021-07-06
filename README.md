@@ -22,3 +22,13 @@ As mentioned, these files are here to help get started with a DevProjects challe
 ## Tutorial
 
 You can [watch this video](https://youtu.be/4wD00RT6d-g) to see how Kevin uses Eleventy, Netlify, and Netlify CMS to create a full-featured blog site built entirely with static files.
+
+# DoTo List For Start Up:
+## npm init -y 
+## npm install @11ty/eleventy --save-dev
+
+# In the package.json replace the script -->
+## "scripts": {
+##    "start": "eleventy --serve",
+##   "build": "eleventy"
+##  },
