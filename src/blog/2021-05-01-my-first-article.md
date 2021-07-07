@@ -1,10 +1,14 @@
 ---
-title: My First Article
-author: Kevin Powell
+title: Recent - Dolorum optio tempore voluptas dignissimos cumque.
+titleRec: Recent - Non rem rerum nam cum quo minus.
+author: John D. Doe
 date: 2021-05-01
-tags: ["post", "featured"]
+tags: ["post", "featured", "recent"]
 image: /assets/blog/article-1.jpg
-imageAlt: This is a test
+imageAlt: Article One Image
+recentImg: /assets/img/blog-recent-posts-1.jpg
+recentImgAlt: Article One Image
+comments: 12 comments
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 

@@ -1,10 +1,14 @@
 ---
-title: My Second Article
-author: Kevin Powell
+title: Nisi magni odit consequatur autem nulla dolorem
+titleRec: Recent - Non rem rerum nam cum quo minus.
+author: Cee Los
 date: 2021-05-15
-tags: ["post", "featured"]
+tags: ["post", "recent"]
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
+recentImg: /assets/img/blog-recent-posts-2.jpg
+recentImgAlt: Article One Image
+comments: 12 comments
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
